@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "110983632489",
+    "firebase_url": "https://mjr-languages.firebaseio.com",
+    "project_id": "mjr-languages",
+    "storage_bucket": "mjr-languages.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110983632489:android:5b31ef11b22668e4",
+        "android_client_info": {
+          "package_name": "com.isil.mjr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110983632489-m93le808s4cgrid5bigtpiv13giuvndj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isil.mjr",
+            "certificate_hash": "5edaccfc091de8d99e1133c783763e7453f2b55c"
+          }
+        },
+        {
+          "client_id": "110983632489-doo2e210qnaomdsjbe7ne3h3eg021pdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isil.mjr",
+            "certificate_hash": "6db153ed285b41ad3aa059e6f0e38c8c074dbaba"
+          }
+        },
+        {
+          "client_id": "110983632489-b08atg78lr3nfq75b5k5g4cfmdl5rdnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3yJbxmlsnD7GeuwxyuYDRS32ohV7UNyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110983632489-b08atg78lr3nfq75b5k5g4cfmdl5rdnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

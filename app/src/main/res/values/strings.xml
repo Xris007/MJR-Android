@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">MJR</string>
+
+    <string name="user">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+
+    <string name="recover_password_message">Please enter your username.\n
+        Well\'s send an email to the account registered with your password.
+    </string>
+    <string name="recover_password_title">Recover Password</string>
+    <string name="send">SEND</string>
+    <string name="dialog_recover_title">Recover Password</string>
+    <string name="dialog_recover_message">We just sent your password to registered mail, please check your mailbox.
+    </string>
+    <string name="done">DONE</string>
+
+    <string name="class_title">Class</string>
+    <string name="schedule">Schedule</string>
+    <string name="teacher">Teacher</string>
+    <string name="notification_title">Notification</string>
+    <string name="package_title">Package</string>
+    <string name="contact_us_title">Contact Us</string>
+
+    <string name="account">Account</string>
+    <string name="log_out">Log Out</string>
+
+    <string name="open">OPEN</string>
+    <string name="exit">EXIT</string>
+    <string name="cancel">CANCEL</string>
+    <string name="save">SAVE</string>
+    <string name="add">ADD</string>
+
+    <string name="dialog_exit_title">Log out</string>
+    <string name="dialog_exit_message">Are you sure?</string>
+
+    <string name="phone_string">Phone Number</string>
+    <string name="email_string">Email</string>
+    <string name="address_string">Address</string>
+
+    <string name="student">Student</string>
+
+    <string name="package_info">Package Info</string>
+    <string name="package_level">Level</string>
+    <string name="package_program">Program</string>
+    <string name="package_hours">Hours</string>
+    <string name="package_materials">Materials</string>
+    <string name="update">UPDATE</string>
+
+    <string name="contact_title">Contact Us</string>
+    <string name="feedback">FEEDBACK</string>
+
+    <string name="woym">What\'s on your mind?</string>
+    <string name="feedback_title">Feedback</string>
+
+    <string name="dialog_feedback_title">Feedback</string>
+    <string name="dialog_feedback_message">You are about to send this message.\nAre you sure you want to continue?
+    </string>
+
+    <string name="all">All</string>
+    <string name="notification_info">Notification Info</string>
+    <string name="notification_messages">Notification Messages</string>
+
+    <string name="class_number">Your Class</string>
+    <string name="detail">DETAIL</string>
+    <string name="edit">EDIT</string>
+
+    <string name="dialog_class_title">Confirm Class</string>
+    <string name="dialog_class_message">Are you sure to add this class?</string>
+    <string name="dialog_class_confirm">ACCEPT</string>
+
+    <string name="title_class_info">Class Info</string>
+    <string name="name">Name</string>
+    <string name="lesson">Lesson</string>
+    <string name="comment">Comment</string>
+
+    <string name="dialog_save_title">Save Changes</string>
+    <string name="dialog_save_message">You just made changes to the class.\n
+        Are you sure you want to save the changes?
+    </string>
+
+    <string name="day_info">Day Info</string>
+    <string name="start_time">Start time</string>
+
+    <string name="start_hour">Start Hour</string>
+    <string name="day">Day</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+
+    <string name="dialog_schedule_title">Confirm Schedule</string>
+    <string name="dialog_schedule_message">Are you sure to add this schedule?</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorMJR">#388E3C</color>
+    <color name="colorTextTitle">#FFFFFF</color>
+    <color name="colorTextPrimary">#1D1D26</color>
+    <color name="colorTextHint">#B0B0B0</color>
+    <color name="colorBarra">#314750</color>
+    <color name="colorFondo">#4A6572</color>
+    <color name="colorBtnCancel">#B40404</color>
+
+    <color name="colorGradient1">#F7FCFD</color>
+    <color name="colorGradient2">#325E74</color>
+
+    <color name="colorGradientHome">#BBD2C5</color>
+    <color name="colorGradientHome2">#536976</color>
+    <color name="colorGradientHome3">#292E49</color>
+
+
+</resources>

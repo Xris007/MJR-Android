@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/navUser"
+                android:checked="true"
+                android:icon="@drawable/ic_user"
+                android:title="@string/account" />
+        <item
+                android:id="@+id/navClass"
+                android:icon="@drawable/ic_class"
+                android:title="@string/class_title" />
+        <item
+                android:id="@+id/navSchedule"
+                android:icon="@drawable/ic_schedule"
+                android:title="@string/schedule" />
+        <item
+                android:id="@+id/navPackage"
+                android:icon="@drawable/ic_package"
+                android:title="@string/package_title" />
+        <item
+                android:id="@+id/navNotification"
+                android:icon="@drawable/ic_notification"
+                android:title="@string/notification_title" />
+
+        <item
+                android:id="@+id/navLogOut"
+                android:icon="@drawable/ic_logout"
+                android:title="@string/log_out" />
+    </group>
+
+</menu>
